@@ -7,11 +7,6 @@ tags: []
 
 # xmake.lua
 
----
-title: xmake.lua
-description: xmake.lua
----
-
 ```lua
 -- 프로젝트 기본 설정
 set_project("MyProject")
