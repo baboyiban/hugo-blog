@@ -1,1 +1,0 @@
-![색상](assets/images/색상.png)
